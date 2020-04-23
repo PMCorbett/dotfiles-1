@@ -40,4 +40,5 @@ _load_settings "$HOME/.zsh/configs"
 # aliases
 [[ -f ~/.aliases ]] && source ~/.aliases
 
+source ~/.slimline/slimline.zsh
 source ~/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
