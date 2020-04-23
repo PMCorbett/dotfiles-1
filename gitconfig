@@ -27,3 +27,6 @@
   path = ~/.gitconfig.local
 [diff]
   colorMoved = zebra
+[user]
+	email = patrick@crowdlab.com
+	name = Patrick Corbett
