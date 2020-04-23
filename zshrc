@@ -48,5 +48,5 @@ export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 # aliases
 [[ -f ~/.aliases ]] && source ~/.aliases
 
-source ~/.slimline/slimline.zsh
-source ~/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/addons/slimline/slimline.zsh
+source ~/.zsh/addons/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
