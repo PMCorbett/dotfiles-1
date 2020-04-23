@@ -1,0 +1,3 @@
+function preflight() {
+  npm run preflight && (afplay ~/.zsh/addons/hotdamn.wav; exit 0) || (c=$?; afplay ~/.zsh/addons/goddamn.wav; (exit $c))
+}
