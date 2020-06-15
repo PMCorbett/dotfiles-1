@@ -42,3 +42,5 @@ _load_settings "$HOME/.zsh/configs"
 
 source ~/.zsh/addons/slimline/slimline.zsh
 source ~/.zsh/addons/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
