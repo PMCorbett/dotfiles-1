@@ -93,7 +93,7 @@ On **user-remote-gary**, call `create_merge_request` with:
   including line breaks):
 
 ```
-/assign-me
+/assign me
 
 /assign_reviewer @wealthwizards/guidance
 ```
