@@ -53,7 +53,6 @@ source ~/.zsh/addons/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-. /opt/homebrew/opt/asdf/libexec/asdf.sh
 export AWS_SDK_LOAD_CONFIG=1
 # [[ -f ~/.vault-token ]] && source ~/.vault-token
 export VAULT_ADDR=https://vault.wizards.engineering
