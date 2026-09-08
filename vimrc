@@ -182,7 +182,7 @@ set diffopt-=internal
 set diffopt+=vertical
 
 " Use Catpuccin Latte as our default color scheme
-colorscheme catppuccin_latte
+colorscheme catppuccin_macchiato
 
 " Local config
 if filereadable($HOME . "/.vimrc.local")
